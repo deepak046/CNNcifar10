@@ -264,6 +264,5 @@ elif t_eval == 2:
     # Evaluation of the best model on the test set
     model1.evaluate(X_test, y_test)
 
-    # model.save("prog_assign_2(82.63).h5")
 
 
