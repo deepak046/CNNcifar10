@@ -14,4 +14,4 @@ def unpickle(file):
         dict = pickle.load(fo, encoding='bytes')
     return dict
 ```
-The files should be unpickled inside the workspace
+The files should be unpickled inside the workspace that contains all the other files in this repo
